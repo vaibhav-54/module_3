@@ -1,0 +1,30 @@
+.con{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.a{
+    
+    text-align: center;
+    
+    
+    margin: 5PX;,
+    padding: 5PX;
+    
+    
+    border:2px solid red;
+    
+    background-color:#69746a;
+}
+h2{
+    text-align: center;
+    
+}
+#navbarNavAltMarkup>div{
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+    
+}
+
+
